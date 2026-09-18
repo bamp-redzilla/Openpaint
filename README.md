@@ -209,4 +209,4 @@ OpenPaint is offered as a full free version with all features and updates includ
 Unlock your creativity today with OpenPaint! Click the download button above to start your artistic journey.
 
 ---
-**Last updated:** 2026-09-17 23:13:53 UTC
+**Last updated:** 2026-09-18 02:03:11 UTC
